@@ -1,4 +1,4 @@
-## [Important Notices](https://waepoints.github.io/highenergyinteractionnotices)
+## [Important Notices](https://waepoints.github.io/rendereddistributedenergyinteractionnotices)
 ![Waepoints Logo](./waepoints-logo.svg)
 ### [rights protections](https://waepoints.github.io/rights/)
 ### [waepointstandards](https://waepoints.github.io/waepointstandards/)
