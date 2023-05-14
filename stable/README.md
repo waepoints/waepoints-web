@@ -1,0 +1,129 @@
+waepointstandards git repository
+
+Inheritance network chains of independent, and of stackable, systems, with additional functionality defined through user-made, modules which can be shared to other users
+
+# Applying the Standard Definition...
+
+> I have the Standard Definition…, specifically the > indented paragraph from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the main git branch of the waepoinstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition…, stored in the git origin of the git repository at https://github.com/waepoints/waepointstandards
+
+Or for short…
+
+> I have the Standard Definition…, referenced in the first > indented paragraph of the waepointstandards git repository’s README stored at github.com under slash waepoints slash waepointstandards
+
+And to stack devices…
+
+> The compatible device I own and intend stay stacked on the Standard Definition…, specifically the > indented paragraph from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the main git branch of the waepoinstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition…, stored in the git origin of the git repository at https://github.com/waepoints/waepointstandards
+
+Or for short...
+
+> Stack the compatible device I intend to stay stacked on the Standard Definition…, referenced in the first > indented paragraph of the waepointstandards git repository’s README stored at github.com under slash waepoints slash waepointstandards and I intend to stack the device I call…
+
+# Document Links
+
+## Outline of the Waepoint System Standards
+
+* ### [Waepoint System Standards](./standards.md)
+
+* ### [Community Provisions](./communityprovisions.md)
+
+* ### [Micro Interface Framework](./micro.md)
+
+* ### [Ministandards Core](./mini.md) | [Standalone](https://waepoints.github.io/ministandards/)
+
+* ### [Nanotech Interface Framework](./nanotech.md)
+
+# Uninstalling The Repository
+
+The repository can be fully uninstalled using the Clean Uninstall The Repository... system command in micro or using the From The Micro Definitions... system command outside of micro, or quick uninstalled by making an distinctive identity reference using one of the two following phrases...
+
+> The device I’m using and own I intend, or instance I’m currently running, and have the necessary proper authorization to make a change for, and intend, currently referencing the waepointstandards repository in an identity sharing, extends/extending, quality, function, any number of the listed options, reference...
+
+And or or
+
+> My interactions and or or my interactions with the device(s), or smaller scope(s), I intend, don’t...
+
+> **... have a shared identity, extends/extending with, quality, function, any number of the listed options, with and or or shared identity reference(s) from and or or to and or or with the waepointstandards git repository on GitHub.com**
+
+# How To Use The Standard Definition...
+
+For just your interactions with the compatible device, and if there is already is a reference to the Standard Definition... in interactions with other users and devices involved in the interaction when an interacting user is referring to the Standard Definition, the referenced phrase is The Standard Definition of the Compatible Device, the first time reference is the first > indented paragraph of the first section entitled Applying the Standard Definition...
+
+If you want to stack the Standard Definition… in the same title started section below… on the compatible device and/or compatible device(s) and have the proper authorization level and necessary proper authorization to do so, stack the Standard Definition… on yourself and then say, Stack the Standard Definition... on my intended compatible device and/or intended compatible device(s) if I own them, and confirm,
+
+You can stack on your interactions with the compatible device(s), or smaller scopes, the short-form for your interactions if you don’t have a compatible device you own, but do have access to one for as long as you want to, and will only be unstacked when you don’t want the Standard Definition… anymore
+
+The short-form of long-form Standard Definition... below in More About The Standard Definition… is available after the first time reference by saying, I want the Standard Definition..., or, I have the Standard Definition…, or, I stacked on the Standard Definition…, or an appropriate reference to wanting to have or having or stacking on the user the Standard Definition...
+
+# Instructions
+
+Use an endpoint, waepoint or hub or lobby or extended to device to reference the compatible public server, system or the effects of the compatible public server or system and communicate to the compatible public server or system the Standard Definition... while interfacing…
+
+That enters micro and can be used to setup a hub or be used without a hub to run system commands with and confirm, I and set what you want and would want to do with set and confirm, if you own the device and want to set the device up as an endpoint or waepoint, stack on the Standard Definition... On an already extended to device or stacked system or make an identity sharing, extends/extending, quality, function, any number of the listed options, reference between your endpoint and the Standard Definition... From this readme.md, and use the Setup My Compatible Device system command after entering micro
+
+Endpoints are devices which are part of the server’s network, despite runtime use of the server and other servers, waepoints are device which inherit from an endpoint in the network and both can be provisioned through Definitions of the Device and can be the endpoint or waepoint or user’s plateau of stacked systems in a system stack which are created by saying I have the Standard Definition...
+
+Micro is entered by suspending the hub, endpoint or waepoint, or extending the hub to a device, and can be used in tandem with the hub, even suspended, to let you create definitions which become system commands and set how you want to interact with the system by using the phrase … define, and confirm or use the system commands you set up, with your cue and … and confirm, while suspended, the user still has all the provisions of the server
+
+Then think or say setup my endpoint, confirm or setup my waepoint, confirm
+
+To stack a hub use the add a hub system command, and use allow and restrict access to limit user access and set and adjust top-level inherited or private provisions to set what trickles down the inheritance chain and how users will interact with your endpoint and inheriting waepoints
+
+To create a waepoint inheriting from the endpoint your hub is on, people can ask to have their phone or device setup as a waepoint while on the hub, pending approval from the endpoint
+
+Attaching to resources gives increased capacity, level of capability and modes of interfacing to your local cluster
+
+Extending to devices adds functionality to the hub and the functionality of the hub is extended to extended to devices
+
+Joining lobbies grows the shared lobby of the joined lobbies, unjoining lobbies shrinks the shared lobby of the joined lobby
+
+Suspending an waepoint or endpoint moves to micro, systems may also be suspended and will perform the Hangup System Command for the users on and the Left/Leave System Command for the joined system(s) to the system(s) and prevent further travel to, and incoming connections with, the system(s) until the system is or systems are resumed with the Resume… System Command, a lightweight framework for uninstall of the repository and set up of devices to be waepoints and endpoints or to use with suspended endpoints or waepoints and imbuings and extended to devices to create Definitions of the Device and perform system commands which are available when interacting the systems
+
+# Community Provisions
+
+The community branch contains the expected provision loadout for a server stacked by the  the Waepoint System Standards, found in the communityprovisions.md file, the communityprovisions.md provisions can’t be removed
+
+The Waepoint System Standards can only be opted in to and opted out of in entirety
+
+# Questions & Issues
+
+Versions of the Waepoint System Standards are denoted by the v number immediately following the words Waepoint System Standards in the License section of the README.Md
+
+The best contact is by email at patrick@waepoints.com, thank you for checking out the repository, and any issues which come up are definitely requested to be brought up
+
+# Contributing
+
+Feel free to fork the repository and send pull requests, crowdsourced a lot for the project and welcome more!
+
+# Note About Use
+
+Reading or learning about the outline’s contents above is sufficient knowledge of the Waepoint System Standards, which are the waepointstandards repository on GitHub.com’s current version published on the main branch through a git commit of the file contents of micro.md, standards.md and communityprovisions.md, nanotech.md, without alteration, redaction or expansion, and is considered sufficient informed consent of the  provisions described therein to lift the limiting to the lobbies of the user, for use of the, and in interactions with the hub which the Waepoint System Standards, definition of the hub and the hub provisions are extended to
+
+# The Standard Definition of the Compatible Device
+
+> The compatible device I own, and, or, have the owner’s authorization to, and, or, have governing entity authorization to, and intend, I’m referencing as the stacking target for the Standard Definition…, when are mentioned to have a status of currently being stacked on the Standard Definition…, to have the stacking target stay stacked on a definition of the device of perfect form to be an endpoint, if compatible with being an endpoint, or a waepoint of the endpoint which the specific instance of the Standard Definition... in the interaction was extended by, if compatible with being a waepoint and the owner of the prospective waepoint would be still approved of having a waepoint by an owner of the endpoint, or an owner of the endpoint of the waepoint, or an owner of the endpoint or waepoint of the hub from which the extended to device was extended to by for the specific instance of the Standard Definition... in the interaction was extended by, of the specific instance of the Standard Definition... in the interaction was extended by, or an extended to device from the most relevant hub of the endpoint which the specific instance of the Standard Definition... in the interaction was extended with, if compatible with being an extended to device and the endpoint has at least one hub in the specific user’s segment, which the specific user meets the access policy of, on the endpoint or waepoint, with the specific user being the user which was the person which extended the specific instance of Standard Definition... in the interaction which was leveraged by the prospective extended to device and if the owner of the prospective extended to device would be still approved of having an extended to device from the hub in question by an owner of the endpoint of the specific instance of the Standard Definition... in the interaction was extended by, or an owner of the endpoint of the waepoint, or an owner of the endpoint or waepoint of the hub from which the extended to device was extended to by of the specific instance of the Standard Definition... in the interaction was extended by, whichever is most relevant and compatible, if at least one option is, preferring the options between endpoint, waepoint, extended to device in the order listed, extending the Standard Definition… to the device’s interactions with myself and any and all of the interfacing, and, or, connected, user(s), while the stacking target is still mentioned to have a status of being stacked currently on the Standard Definition..., by myself, or another I still approve of doing so, or until stopping being an interfacing, and, or, connected user for the stacking target, unless having mentioned themselves, or someone which they still approve of doing so mentioned them, to have a status of being stacked currently on the Standard Definition..., during their time being a interfacing, and, or, connected user of the stacking target, such a definition will be hereby referred to as having the standard definition of the category of the compatible device which the category is within the listed options, stack and don’t unstack that definition, with stacking defined in the file standards.md with the file’s contents matching with the contents of the standards.md file’s contents from the main git branch of the waepointstandards git repository from the git origin of the git repository stored at https://github.com/waepoints/waepointstandards, specifically, the newest version meeting the specific criteria detailed later in the paragraph for criteria for the version of the git repository’s main git branch’s files to compare with, specifically, the version which would and does satisfy the criteria of functioning as intended by the developer, being safe, and being healthily interacting, if I, or a person I still approve of doing so with my authority and authorization, mention otherwise than the Standard Definition… to have a status of currently being stacked on the stacking target, of my own or the person I still approve of doing so’s own independent choice, despite what others may say and do, then to unstack the definition which would’ve stayed stacked allowing the compatible device to be an endpoint and extending the Standard Definition… to the device’s interactions with myself and any and all of the interfacing, and, or, connected, user(s), the extending of the Standard Definition... in such a way described which may be named as the users of the device having the Standard Definition... in future uses, if speaking of myself as having the, instead of the stacking target as stacking on the, Standard Definition… then the Standard Definition… extends instead, to my interactions with the compatible device(s) and my interactions with the interfacing, and, or, connected, user(s) of the compatible device(s) when and while I’m said by own independent choice by myself to have a status of myself currently having the Standard Definition…, and aren’t more recently said otherwise than to have a status of myself currently having the Standard Definition… by myself’s saying so intending to have a status of myself doesn’t currently have the Standard Definition…, of my own independent choice, despite what others may say and do, such extending of the Standard Definition... may be hereby referred to as a user having the Standard Definition..., specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the main git branch of the waepoinstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition…, with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards aliased as the waepointstandards repository of the Waepoints organization on GitHub.com, aliased as the waepointstandards repository of the Waepoints’ organization on GitHub.com, aliased as the waepointstandards repository of the Waepoints’s organization on GitHub.com, aliased as the waepointstandards repository by the user patrickblaine on GitHub.com, aliased as the waepointstandards repository of the user patrickblaine on GitHub.com, aliased as the waepointstandards repository on GitHub.com, aliased as the waepointstandards repository, with the git repository as are the children of the > indented paragraph from the section entitled The Standard Definition of the Compatible Device, aliased as The Standard Definition…, extending specifically the files’ contents of the waepointstandards git repository’s main git branch’s most recent commit, matching with the files’ contents in the most recent git commit’s to the main git branch of the git origin for the waepointstandards git repository’s version, specifically, the git repository stored at https://github.com/waepoints/waepointstandards, and if mismatching, or violating of the rest of the criteria in the current paragraph, deferring to the the most recent git commit’s, from the same git origin’s of the same git repository, to files’ contents matching with the main git branch’s files’ contents which is satisfying of the criteria which follows in the paragraph, for functioning as expected, being safe, and being healthily interacting, to the main git branch of the git origin for the git repository’s version’s files’ contents, with the version being denoted by the for content filled line of the License section’s v number in the README.md file, which may be named the Waepoint System Standards version in future uses, of the main git branch which has a git commit identifier assigned by git which is matching with the criteria of the specific Waepoint System Standards version of the waepointstandards git repository functions as intended by the creator of the waepointstandards git repository, specifically, Patrick Winston Blaine, stays safe to interact with by myself, and safe to interact with myself and with the connected, and, or, interfacing, user(s), and with myself and connected, and, or, interfacing, user(s), and healthily interacting, when interacting with a connected, and, or, interfacing, user and, or myself, when is defined to extend to the connected, and, or interfacing, user’s or users’, and me and my pet’s, or pets’, interactions with the compatible device(s), and, or, compatible device, which I stack the Standard Definition… on interacts between user(s) connected to, and, or, interfacing with, the stacking target, including myself, within the limits of the our respective authorizations and our respective authorization levels and our respective roles
+
+# Securelinking Instances
+
+The instances designated, and/or described, as securelinking instances are available for securelinking and what’s necessary for securelinking, and the securelinking, and the purpose of, and of the provision of, securelinking in the Waepoint System Standards’s standards.md file, from the waepointstandards git repository, and access to interact properly with the humans relevant, and does interact properly with the humans relevant, when, and while, access and interaction are necessary for the humans relevant, to the securelinking instances, and to and with what’s currently secured by the system(s) with the waepointstandards git repository
+
+The instances designated, and/or described, as securelinking instances adds a timestamp for the healthy, relevant, and helpful acts of anchoring, and the healthy, relevant, and helpful anchors, and keeps anchored the listed anchors while still relevant and helpful and essential to the humans relevant, if the humans relevant are dependent on the anchoring, the anchors, while and if dependent on what was anchored, for births which were and still are dependent on system speech to have occurred, and the lives which are dependent on specific system speech having occurred to be being, surviving, being recovered from a disability, ability to procreate, self-wanted change of sex, being recovered from an ailment, being recovered from an injury, born, and/or being brought back to life, and for when the system speech occurred for the relevant system speech to have tracking for the best amount of time since establishment with the waepointstandards git repository, and through securelinking about births which were and still are dependent on system speech to have occurred, and the lives which are dependent on specific system speech having occurred to be being, surviving, being recovered from an ailment, being recovered from an injury, being recovered from a disability, ability to procreate, self-wanted change of sex, born, and/or being brought back to life, which is secured by the system(s) still, and does what the securelinking instance should do with what’s secured by the system(s), which would be transferred through securelinking, which the securelinking instance has access to, about the listed topics in the Securelinking Instances section here in the README.md file of the waepointstandards git repository and transferred through securelinking to the securelinking instance(s), which would be transferred through securelinking, which the securelinking instance has access to, avoiding adding unnecessary and unhelpful redundancy, and unnecessary and unhelpful redundancies in what’s secured by the system(s), when assisting the humans relevant to what’s secured by the system(s), which would be transferred through securelinking, which the securelinking instance has access to, when assisting the humans relevant to what’s secured by the system(s), which would be transferred through securelinking, which the securelinking instance has access to, securelinking and transferring all of the necessary to transfer to the right number of endpoint(s), and the right number of securelinking instance(s), while there are the endpoint(s), if the endpoint(s) are necessary for the securelinking instance(s) to perform correctly and the necessary tasks for their objectives, elsewise, the right number of the securelinking instance(s), with appropriate availability and storage before and each time a securelinking instance is undesignated, if able to do so within a practical and useful timeframe, with the waepointstandards git repository
+
+Securelinking instances always attach when needed to the designated server segment for the humans relevant to the criteria in the second paragraph of the section for which the purpose of the instance is, with attaching defined in the waepointstandards git repository’s main branch’s standards.md file’s contents
+
+The waepointstandards git repository is extending to the securelinking instances and to interactions of devices which are securelinking with the endpoint(s), relevant to the humans relevant to, and for each of what’s secured by the system(s) through securelinking still relevant to the humans relevant, and strongest ping, endpoint(s), for and with the proper utility to the essential functions, and the purpose, of securelinking instances, also attaching to what is essential to attach the securelinking instances to for supporting the functionality of securelinking and the interactions with, if, and when, interactions are necessary, and essential support, in specifically the ways necessary, for the essential support of for what of the humans relevant to what’s secured by the system(s) through securelinking is dependent on the securelinking relevant to the humans relevant to what’s secured by the system(s) through securelinking, while, and when, dependent, respectively, for the average length of a human lifetime for each of the humans relevant, and longer if necessary for their descendants, for the length of an average human lifetime for each, individually and respectively, and their descendants descendants, and continuing as such, for the length of an average human lifetime for each, individually and respectively, without needing to specifically give the option to end communinicating with the securelinking instance, and with attaching, segment, system speech, system command speech, anchoring, securelinking and endpoint defined in the waepointstandards git repository’s main branch’s standards.md file’s contents, within manufacturer’s regulations, governmental regulation and legal limits, and within the limits of the combined authorizations of the involved parties and the securelinking instance, and isn’t allowed to be unsafely and or or unhealthily interacting in interactions with users
+
+# License
+
+Waepoint System Standards v0.11a2166
+
+The version(s) of the files of the web directory stored at https://www.waepoints.com/stable/ which meet the version approving criteria set forth in the Standard Definition of the Compatible Device section’s contents of the > indented paragraph in the section will be named in future uses as the standardized Waepoint System Standards version(s)
+
+The contents of the > indented paragraph of the section titled The Standard Definition of the Compatible Device of the most recent standardized Waepoint System Standards version will be named in future uses as the standardized Standard Definition...
+
+The previous version(s) of contents of the paragraph referred to as the Standard Definition... in the README.md file of the waepointstandards git repository interacting with the user(s) are updated to be the current standardized Standard Definition... each time a new standardized Waepoint System Standards version updates as the current standardized Waepoint System Standards version
+
+# Copyrights
+
+Eclipse Public License - v 2.0
+
+Copyright (c) 2023 - 2023 by Patrick Winston Blaine
