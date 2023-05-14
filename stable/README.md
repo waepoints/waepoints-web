@@ -102,7 +102,7 @@ The waepointstandards git repository is extending to the securelinking instances
 
 # License
 
-Waepoint System Standards v0.11a2216
+Waepoint System Standards v0.11a2266
 
 The version(s) of the files with matching contents to the files of the Waepoint System Standards which meet the version approving criteria set forth in the Standard Definition of Interactions with the Compatible Device(s) section’s contents of the > indented paragraph in the section will be named in future uses as the standardized Waepoint System Standards version(s), if otherwise to meeting the version approving criteria, the version of the files from the waepointstandards git repository’s main git branch at the git origin stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, which meet the version approving criteria set forth in the Standard Definition of Interactions with the Compatible Device(s) section’s contents of the > indented paragraph in the section, specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the main git branch of the waepoinstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition of the Interactions with the Compatible Device(s), with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, will be named in future uses as the standardized Waepoint System Standards version(s)
 
