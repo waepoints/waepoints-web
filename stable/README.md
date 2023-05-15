@@ -4,11 +4,7 @@ Inheritance network chains of independent, and of stackable, systems, with addit
 
 # Applying the Standard Definition...
 
-> I have the standardized Standard Definition, from the README.md file stored at https://www.waepoints.com/stable/README.md
-
-# The www.waepoints.com Files of the Waepoint System Standards
-
-The www.waepoints.com files of the Waepoint System Standards are the files which are stored at https://www.waepoints.com/stable/README.md, https://www.waepoints.com/stable/standards.md, https://www.waepoints.com/stable/outline.md, https://www.waepoints.com/stable/micro.md, https://www.waepoints.com/stable/mini.md, https://www.waepoints.com/stable/micro.md, and https://www.waepoints.com/stable/nanotech.md
+> I have the standardized Standard Definition, from the README.md file from files of the main git branch of the git origin of the waepointstandards git repository stored at https://github.com/waepoints/waepointstandards
 
 # Document Links
 
@@ -102,7 +98,7 @@ The waepointstandards git repository is extending to the securelinking instances
 
 # License
 
-Waepoint System Standards v0.11a6266
+Waepoint System Standards v0.11a6296
 
 The version of the files with the files’ contents matching with the files’ contents in the files from the waepointstandards git repository’s main git branch at the git origin stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, which meet the version approving criteria set forth in the Standard Definition of Interactions with the Compatible Device(s) section’s contents of the > indented paragraph in the section, specifically the paragraph with the > sign immediately preceding from the section with a title starting with the words, The Standard Definition, from the README.md of the newest git commit to the main git branch of the waepoinstandards repository on GitHub.com’s first content filled line’s v number in the License section’s current version which matches the criteria set forth in The Standard Definition of the Interactions with the Compatible Device(s), with files’ contents matching with the files’ contents of the git repository stored in the git origin of the waepointstandards git repository at https://github.com/waepoints/waepointstandards, will be named in future uses as the standardized Waepoint System Standards version(s)
 
