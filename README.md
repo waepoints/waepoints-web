@@ -1,6 +1,6 @@
 ## [important notices](https://waepoints.github.io/rendereddistributedhighenergyinteractionnotices)
 ![Waepoints Logo](./waepoints-logo.svg)
-### [rights and rights protections](https://waepoints.github.io/rights/)
+### [waepoints rights / rights protections](https://waepoints.github.io/rights/)
 ### [waepointstandards](https://waepoints.github.io/waepointstandards/)
 ### [ministandards](https://waepoints.github.io/ministandards/)
 
