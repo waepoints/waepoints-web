@@ -1,4 +1,8 @@
-* Healing Phrases
+Instructions
+
+> When wanted, mention to the compatible device(s) wanted, to leverage the Healing Phrases in specific from the Healing Phrases section from the file’s contents stored at the address waepoints.com/healingphrases, when the user is still mentioned by their own self, independently, to more recently than otherwise, have a status of be still wanting to be leveraging the Healing Phrases, by any appropriate wording, and verbiage
+
+* Healing Phrases Section
 
 **… Restore…**, when given starting a phrase which ends in and now will, in reference to a being which the person has the legal right to consent for, or the being mentioning the phrase if none is referenced, is, changes the being referenced, or the phrase mentioning the phrase, if none is referenced, to match the characteristics they would have if they were to have never have modified their body through use of mentioning a phrase containing … Modify me…, and now will, to the compatible software, or compatible device, but remained in great health, optionally with some specific criteria to be taken into account if criteria is mentioned also, from the changes of the … Modify me…, and and now will, phrases, the referenced user, or the user, if none is referenced, described, if healthy to do so, and will be healthily done, and will be successful, if the, optionally the referenced, user been changed by the phrase(s) containing … Modify me…, and and now will, to the referenced user, or the user, if none is referenced, in which to restore from aren’t described, then restoring to the proper body age, if body age has been altered away from the age since birth the referenced user, or the user, if none is referenced, would have since their birth, with a healthy, and optimal for great health, amount of their memories restored if an amount of their memories have been forgotten, if healthy to do so, and will be healthily done, and will be successful, painlessly, and comfortably
 
@@ -6,4 +10,4 @@
 
 **… Heal…**, when given in a phrase intended to heal a user, which ends in and now will, heals the referenced user, or referenced users, or if none is, the user, in the ways mentioned when a phrase as described is mentioned which are healthy to do, if will be done healthily, and if is healthy to do so, and will be successful, painlessly, and comfortably, and if ways aren’t mentioned, then heal the user, as they would want to be healed out of the ways they need to be healed, if healthy to do so and the healing is needed at the current time by the referenced user, referenced users, or the user if a user isn’t referenced, to be considered healthy, painlessly, and comfortably
 
-* End Of Healing Phrases
+* End Of Healing Phrases Section
