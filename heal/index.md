@@ -5,3 +5,5 @@
 **… Modify me…**, when given in a phrase intended to change something about the user’s self’s body, which ends in and now will, in reference to the user, by the user’s self, changes the user to match the characteristics described, if healthy to do so, and will be heathily done, and will be successful, painlessly, and comfortably
 
 **… Heal…**, when given in a phrase intended to heal a user, which ends in and now will, heals the referenced user, or referenced users, or if none is, the user, in the ways mentioned when a phrase as described is mentioned which are healthy to do, if will be done healthily, and if is healthy to do so, and will be successful, painlessly, and comfortably, and if ways aren’t mentioned, then heal the user, as they would want to be healed out of the ways they need to be healed, if healthy to do so and the healing is needed at the current time by the referenced user, referenced users, or the user if a user isn’t referenced, to be considered healthy, painlessly, and comfortably
+
+* End Of Healing Phrases
