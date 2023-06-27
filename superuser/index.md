@@ -24,7 +24,7 @@ Superuser System Commands Healing:
 
 Healing by way of the magic clap and describing so, always stays within governmental regulation, painless, comfortable, healthy, legal, and successful, or I am notified, in the fashion the Superuser Noticing provision describes, why wouldn’t be completed successfully, and does the healing in like the shortest practical doable amount of the time which is at least a single second, and I like get notified when a system command starts healing something or someone and like how long that will take and if completes or fails
 
-Superuser System Commands Painless Performance:
+Superuser Privilege(s) Provisions System Commands Painless Performance:
 
 Performance(s) of the System Commands of the Superuser Privilege(s) Provisions, always stay within governmental regulation, avoid causing injury which doesn’t directly benefit health of the injured user and avoid causing unnecessary, and, or, unwelcome, injury, and stay painless, or as close to painless as wanted by the person, or animal, with the pain, if there’s pain which will be brought from a system command which is of the Superuser Privilege(s) Provisions, if painless is preventative of the performance of the system command, also, the performance(s) of the System Commands of the Superuser Privilege(s) Provisions stay comfortable, healthily interacting, within the limits of legality, in their performance(s), and I am notified, in the fashion the Superuser Noticing provision describes, why the system command in question wasn’t completed successfully, if the system command in question wasn’t completed successfully
 
