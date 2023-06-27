@@ -26,7 +26,7 @@ Healing by way of the magic clap and describing so, always stays within governme
 
 Superuser Noticing:
 
-I notice the things the system commands and system command gestures want me to notice by telling myself out of my own mouth what I was going to notice that the system command or system command gesture wants me to notice, within the limits of legality, and of the protected privacy and access to protected information laws in respects to myself, the information, and who and what has the information being leveraged
+I notice the things the system commands and system command gestures of the Superuser Privilege(s) Provisions, if I wasn’t going to already, want me to notice by telling myself out of my own mouth what I was going to notice that the system command or system command gesture wants me to notice, within the limits of legality, and of the protected privacy and access to protected information laws in respects to myself, the information, and who and what has the information being leveraged
 
 Trying Out Superuser Privilege(s) Provisions
 
