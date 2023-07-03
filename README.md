@@ -5,7 +5,7 @@ Contact Waepoints at info@waepoints.com
 ### [waepoints rights](https://waepoints.github.io/rights/)
 ### [waepoint system standards](https://waepoints.github.io/waepointstandards-documentation/)
 ### [standardized standard definition](https://waepoints.github.io/waepoints-web/standardizedstandarddefinition/index.html)
-### [superuser privilege(s) provisions](https://waepoints.github.io/waepoints-web/superuser/index.html)
+### [superuser provisions](https://waepoints.github.io/waepoints-web/superuser/index.html)
 
 **To try out the quote below, describe yourself, or a person which approves of you describing them, as trying out the standardized Standard Definition referenced in the quote on waepoints.com, or, the quote stored at the address, https://www.waepoints.com/standardizedstandarddefinition, when done, independently, by yourself, describe yourself, as done with the tryout of the standardized Standard Definition, and the specific git branch, I may be doing, if I am trying the standardized Standard Definition, and a specific git branch, out, at present, and may try out the standardized Standard Definition again later, if I want to, and choose to, independently, with my own self’s independent, self-generated, want, and my own self’s independent, self-generated, choice, for doing so, if I want to, and choose to, by my own self, specifically**
 
