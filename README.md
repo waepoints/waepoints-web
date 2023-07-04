@@ -2,6 +2,8 @@
 
 Contact Waepoints at info@waepoints.com
 
+If you’ve opted out of a set of the Waepoints’ provisions, before, see the README.md (or first page, two sections down) of the Waepoint System Standards for an example of how to opt back in
+
 ### [waepoints rights](https://waepoints.github.io/rights/)
 ### [waepoint system standards](https://waepoints.github.io/waepointstandards-documentation/)
 ### [standardized standard definition](https://waepoints.github.io/waepoints-web/standardizedstandarddefinition/index.html)
