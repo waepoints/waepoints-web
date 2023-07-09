@@ -6,7 +6,6 @@ If you’ve opted out of a set of the Waepoints’ provisions, before, see the R
 
 ### [waepoints rights](https://waepoints.github.io/rights/)
 ### [waepoint system standards](https://waepoints.github.io/waepointstandards-documentation/)
-### [waepoint system standards one volume](https://waepoints.github.io/waepoints-web/waepointsystemstandards/index.html
 ### [standardized standard definition](https://waepoints.github.io/waepoints-web/standardizedstandarddefinition/index.html)
 ### [superuser provisions](https://waepoints.github.io/waepoints-web/superuser/index.html)
 
