@@ -2,11 +2,11 @@
 
 ## Outline of the Documentation of the, and for the, Waepoint System Standards Documents
 
-* ### [Waepoint System Standards](https://waepoints.github.io/waepointstandards-documentation/standards.html)
+* ### [Waepoint System Standards](https://www.waepoints.com/waepointsystemstandards/standards.html)
 
-* ### [Community Provisions](https://waepoints.github.io/waepointstandards-documentation/communityprovisions.html)
+* ### [Community Provisions](https://www.waepoints.com/waepointsystemstandards/communityprovisions.html)
 
-* ### [Micro Utilities](https://waepoints.github.io/waepointstandards-documentation/micro.html)
+* ### [Micro Utilities](https://www.waepoints.com/waepointsystemstandards/micro.html)
 
 # README.md Document Provisions of the Waepoint System Standards
 
