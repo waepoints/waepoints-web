@@ -4,7 +4,7 @@ Contact Waepoints at info@waepoints.com
 
 If you’ve opted out of a set of the Waepoints’ provisions, before, see the README.md (or first page, two sections down) of the Waepoint System Standards for an example of how to opt back in
 
-* Documentation Links
+# Documentation
 
 ### [waepoints rights](https://www.waepoints.com/rights/)
 ### [waepoint system standards](https://www.waepoints.com/waepointsystemstandards/)
