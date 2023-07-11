@@ -1,7 +1,3 @@
-—-
-permalink: /
-—-
-
 # Waepoints Rights
 
 + There is notification to the command giving, or request of users by way of the device, and, or, software, making, user at least of why a command, or request of users by way of the device, and, or, software, won’t be performed by the device, and, or, software, the user is on
